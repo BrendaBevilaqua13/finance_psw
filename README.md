@@ -30,5 +30,5 @@ A aplicação consiste na criação de um gerenciador de gastos pessoais, onde o
 - HTML 
 - CSS
 - JS
-- 
+- Bootstrap
 
