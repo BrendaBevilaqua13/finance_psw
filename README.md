@@ -4,7 +4,7 @@
 
 O finance é uma aplicação Django desenvolvida na Pystack Week 7.0 pelo Pythonando.
 
-A aplicação consiste na criação de um gerenciador de gastos pessoais, onde os dados são coletados pelo usuário e depois são listados na home,também tem acesso a extratos das contas e apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste na criação de um gerenciador de gastos pessoais, onde os dados são coletados pelo usuário e depois são listados na home,também tem acesso a extratos das contas e apresenta gráficos baseados nestes dados.
 
 ## Layout
 <div align="center">
