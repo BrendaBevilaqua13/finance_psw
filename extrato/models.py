@@ -13,3 +13,6 @@ class Valores(models.Model):
     data = models.DateField()
     conta = models.ForeignKey(Conta, on_delete=models.DO_NOTHING)
     tipo = models.CharField(max_length=1, choices=choice_tipo)
+    
+    def __str__(self):
+        return self.descricao
